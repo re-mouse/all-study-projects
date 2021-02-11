@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
+<<<<<<< HEAD
+<<<<<<< HEAD
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MakefileSettings">
+    <option name="linkedExternalProjectsSettings">
+      <MakefileProjectSettings>
+        <option name="analyzerType" value="OUTPUT_PARSING" />
+        <option name="buildOptions" value="" />
+        <option name="buildTarget" value="all" />
+        <option name="cleanTarget" value="clean" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+          </set>
+        </option>
+        <option name="switches" value="--just-print --print-directory --keep-going" />
+      </MakefileProjectSettings>
+    </option>
+  </component>
+  <component name="MakefileWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
+=======
+>>>>>>> a93cac18ea0345a2c7a6532de0679d5e285c8232
+=======
+>>>>>>> 5cd7b3953a6da1bbfe97d4556abe7e92fccd6354
+</project>
